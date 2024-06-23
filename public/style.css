@@ -24,36 +24,6 @@ body {
     padding: 2rem 0; 
   }
   
-  section h3 {
-    margin-bottom: 1rem; 
-  }
-  
-  /* Cards de repositórios */
-  .card {
-    border: none; 
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
-  }
-  
-  .card-body {
-    padding: 1.5rem;
-  }
-  
-  .card-title {
-    margin-bottom: 0.5rem; 
-  }
-  
-  .card-footer {
-    padding: 1rem 1.5rem; 
-    background-color: #f8f9fa; 
-    border-top: none; 
-  }
-  
-  /* Carrossel */
-  .carousel-item img {
-    height: 300px; 
-    object-fit: cover; 
-  }
-  
   /* Rodapé */
   footer {
     background-color: #333; 
